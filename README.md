@@ -1,3 +1,5 @@
+# This fork fixes ungoogled chromium support by properly setting the download destination. It makes no other changes
+
 # Chromium For Windows
 This project can install the latest Chromium on your PC and it keeps the browser up to date. The build releases are from https://chromium.woolyss.com/
 
